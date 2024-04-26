@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "32a602856120aa44",
+    "type": "split",
+    "children": [
+      {
+        "id": "938038da40166a1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "918ba912c554fd1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "博客添加GitHub的贡献图.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbcb8a75e3333041",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6672fd4be2a1187",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74c7bab07e7b81c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e2a5303f44c74e9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f8806ef1bfa462a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92b97a2f0247f0e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "69e1a00420f95e06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6b26e2bdc71bbee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "博客添加GitHub的贡献图.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ebe3e1b35314b906",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "博客添加GitHub的贡献图.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d7e975baa1a3abb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "博客添加GitHub的贡献图.md"
+              }
+            }
+          },
+          {
+            "id": "9bfcb38c1fa438b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "2dad5e402c455633",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "templates:插入模板": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "publish:发布更改": true
+    }
+  },
+  "active": "918ba912c554fd1d",
+  "lastOpenFiles": [
+    "2024-04-26.md",
+    "博客添加GitHub的贡献图.md",
+    "数据采集.md",
+    "未命名 1",
+    "未命名",
+    "Homebrew切换阿里云镜像.md",
+    "RPC和HTTP.md",
+    "ZooKeeper.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "Raft协议.md",
+    "PicGo报错超时Error解决办法(connect ECONNREFUSED 127.0.0.1:443).md",
+    "nginx与gateway的区别.md",
+    "数据入湖.md",
+    "如何查找 Youtube Channel ID？.md",
+    "基于DAG实现的任务编排设计.md",
+    "分布式调度系统 Jarvis 的设计与实现.md",
+    "动态分片-MapReduce.md",
+    "python0-100/02语言元素.md",
+    "python0-100/01初识Python.md",
+    "博客配色.md",
+    "Untitled.md",
+    "如何查找 Youtube Channel ID.md",
+    "2024-03-12.md",
+    "那你.md",
+    "2024-01-19.md"
+  ]
+}
