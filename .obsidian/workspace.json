@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据采集.md",
+                "file": "PicGo报错超时Error解决办法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据采集.md",
+                "file": "PicGo报错超时Error解决办法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据采集.md",
+                "file": "PicGo报错超时Error解决办法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据采集.md"
+                "file": "PicGo报错超时Error解决办法.md"
               }
             }
           },
@@ -161,9 +161,9 @@
   },
   "active": "918ba912c554fd1d",
   "lastOpenFiles": [
+    "数据采集.md",
     "博客添加GitHub的贡献图.md",
     "2024-04-26.md",
-    "数据采集.md",
     "未命名 1",
     "未命名",
     "Homebrew切换阿里云镜像.md",
@@ -172,7 +172,7 @@
     "未命名 1.canvas",
     "未命名.canvas",
     "Raft协议.md",
-    "PicGo报错超时Error解决办法(connect ECONNREFUSED 127.0.0.1:443).md",
+    "PicGo报错超时Error解决办法.md",
     "nginx与gateway的区别.md",
     "数据入湖.md",
     "如何查找 Youtube Channel ID？.md",
