@@ -1,4 +1,4 @@
->  有了 nginx，为什么还要用到 gateway呢？
+> 有了 nginx，为什么还要用到 gateway呢？
 
 
 
@@ -17,6 +17,3 @@
 
 - 流量的控制 — nginx—流量网管
 - 业务网关 — gateway —业务网关
-
-
-

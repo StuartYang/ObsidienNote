@@ -1,3 +1,6 @@
 [
-  "calendar"
+  "calendar",
+  "obsidian-image-auto-upload-plugin",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git"
 ]

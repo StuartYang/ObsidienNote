@@ -2,5 +2,6 @@
   "useMarkdownLinks": true,
   "attachmentFolderPath": "/",
   "newFileLocation": "root",
-  "promptDelete": false
+  "promptDelete": false,
+  "showLineNumber": true
 }
