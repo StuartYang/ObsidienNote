@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7955f81eea4931b8",
+        "id": "9000374729c38b59",
         "type": "tabs",
         "children": [
           {
-            "id": "6f141b2f6799b876",
+            "id": "7507484a74f92be3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RPC和HTTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "231d9bb794df0953",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PicGo报错超时Error解决办法.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PicGo报错超时Error解决办法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PicGo报错超时Error解决办法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PicGo报错超时Error解决办法.md"
+                "file": "2024-04-27.md"
               }
             }
           },
@@ -177,13 +158,13 @@
   "lastOpenFiles": [
     "2024-04-27.md",
     "RPC和HTTP.md",
+    "PicGo报错超时Error解决办法.md",
     "Homebrew切换阿里云镜像.md",
     "nginx与gateway的区别.md",
     "数据采集.md",
     "Raft协议.md",
     "基于DAG实现的任务编排设计.md",
     "博客添加GitHub的贡献图.md",
-    "PicGo报错超时Error解决办法.md",
     "Excalidraw/Drawing 2024-04-27 16.13.29.excalidraw.md",
     "Excalidraw",
     "Users/xudongyang/Library/Application.md",
