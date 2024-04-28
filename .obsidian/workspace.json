@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3facc8ffd4b326c8",
+        "id": "b8153e64e05d592d",
         "type": "tabs",
         "children": [
           {
-            "id": "4e5907b176da3f96",
+            "id": "dabb112c715480e1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -107,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2024-04-28.md"
+              }
             }
           },
           {
@@ -144,16 +146,19 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "command-palette:打开命令面板": false,
       "templates:插入模板": false,
       "random-note:开始漫游笔记": false,
       "audio-recorder:开始/结束录音": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
+      "command-palette:打开命令面板": false,
       "publish:发布更改": true
     }
   },
-  "active": "4e5907b176da3f96",
+  "active": "74c7bab07e7b81c0",
   "lastOpenFiles": [
+    "2024-04-28.md",
+    "基于DAG实现的任务编排设计.md",
+    "博客添加GitHub的贡献图.md",
     "2024-04-27.md",
     "RPC和HTTP.md",
     "PicGo报错超时Error解决办法.md",
@@ -161,8 +166,6 @@
     "nginx与gateway的区别.md",
     "数据采集.md",
     "Raft协议.md",
-    "基于DAG实现的任务编排设计.md",
-    "博客添加GitHub的贡献图.md",
     "Excalidraw/Drawing 2024-04-27 16.13.29.excalidraw.md",
     "Excalidraw",
     "Users/xudongyang/Library/Application.md",
@@ -186,7 +189,6 @@
     "Untitled.md",
     "如何查找 Youtube Channel ID.md",
     "2024-03-12.md",
-    "那你.md",
-    "2024-01-19.md"
+    "那你.md"
   ]
 }
