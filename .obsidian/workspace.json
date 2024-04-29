@@ -11,8 +11,13 @@
             "id": "dabb112c715480e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SpringBoot/@ControllerAdvice注解.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SpringBoot/@ControllerAdvice注解.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SpringBoot/@ControllerAdvice注解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-04-28.md"
+                "file": "SpringBoot/@ControllerAdvice注解.md"
               }
             }
           },
@@ -142,32 +149,36 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "switcher:打开快速切换": false,
+      "switcher:打开快速切换": true,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
+      "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": false,
-      "random-note:开始漫游笔记": false,
+      "random-note:开始漫游笔记": true,
       "audio-recorder:开始/结束录音": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
       "command-palette:打开命令面板": false,
       "publish:发布更改": true
     }
   },
-  "active": "74c7bab07e7b81c0",
+  "active": "dabb112c715480e1",
   "lastOpenFiles": [
-    "2024-04-28.md",
-    "基于DAG实现的任务编排设计.md",
     "博客添加GitHub的贡献图.md",
-    "2024-04-27.md",
-    "RPC和HTTP.md",
+    "数据采集.md",
+    "nginx与gateway的区别.md",
+    "Raft协议.md",
     "PicGo报错超时Error解决办法.md",
     "Homebrew切换阿里云镜像.md",
-    "nginx与gateway的区别.md",
-    "数据采集.md",
-    "Raft协议.md",
-    "Excalidraw/Drawing 2024-04-27 16.13.29.excalidraw.md",
+    "SpringBoot/@ControllerAdvice注解.md",
+    "Excalidraw/Drawing 2024-04-28 16.49.14.excalidraw.md",
+    "SpringBoot",
+    "未命名.canvas",
     "Excalidraw",
+    "2024-04-28.md",
+    "基于DAG实现的任务编排设计.md",
+    "2024-04-27.md",
+    "RPC和HTTP.md",
+    "Excalidraw/Drawing 2024-04-27 16.13.29.excalidraw.md",
     "Users/xudongyang/Library/Application.md",
     "Users/xudongyang/Library",
     "Users/xudongyang",
@@ -175,10 +186,8 @@
     "如何查找 Youtube Channel ID？.md",
     "ZooKeeper.md",
     "README.md",
-    "未命名.canvas",
     "2024-04-26.md",
     "未命名 1",
-    "未命名",
     "未命名 1.canvas",
     "数据入湖.md",
     "分布式调度系统 Jarvis 的设计与实现.md",
@@ -187,8 +196,6 @@
     "python0-100/01初识Python.md",
     "博客配色.md",
     "Untitled.md",
-    "如何查找 Youtube Channel ID.md",
-    "2024-03-12.md",
-    "那你.md"
+    "如何查找 Youtube Channel ID.md"
   ]
 }

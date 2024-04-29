@@ -3,5 +3,5 @@
   "attachmentFolderPath": "/",
   "newFileLocation": "root",
   "promptDelete": false,
-  "showLineNumber": true
+  "showLineNumber": false
 }
